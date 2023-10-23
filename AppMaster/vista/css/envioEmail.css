@@ -1,0 +1,58 @@
+﻿.container.imagenes {
+    background-color: white;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.container.titulo {
+    background-color: white;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.container.imagen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.titulo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container.imagen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.colores {
+    width: 80px;
+}
+
+.nuevoColor {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;  
+}
+
+.puntaje {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    margin-top: 50px
+}
+}

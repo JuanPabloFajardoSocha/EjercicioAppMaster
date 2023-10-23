@@ -1,0 +1,4 @@
+hola
+, este es un archivo de prueba de c# para la lectura y escritura del mismo
+
+prueba 2

@@ -1,0 +1,60 @@
+﻿.container.imagenes {
+    background-color: white;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.container.titulo {
+    background-color: white;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.container.parrafo {
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.container.imagen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.titulo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.edad {
+    margin-left: 33px;
+}
+
+.nombre {
+    margin-left: 10px;
+}
+
+.apellido {
+    margin-left: 10px;
+}
+
+.direccion {
+    margin-left: 2px;
+}
+
+.container.form {
+    margin-top: 15px
+}
+
+.masculino {
+    margin-left: 10px;
+}
